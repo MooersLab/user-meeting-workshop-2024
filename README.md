@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
-# Slides presented September 26 at the SSRL/LCLS Users Meeting
+# Slides presented at the 2024 SSRL/LCLS Users Meeting
 
 Coming soon
 
